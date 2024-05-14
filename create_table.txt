@@ -1,0 +1,81 @@
+# based on the data from the data folder. It is added to the database using the add_to_DB.py file
+CREATE TABLE hotels (
+	id INT AUTO_INCREMENT PRIMARY KEY,
+	name VARCHAR(300),
+	hotel_url VARCHAR(600),
+	country VARCHAR(300) NOT NULL,
+	state VARCHAR(300) DEFAULT 'Unknown',
+	city VARCHAR(300) DEFAULT 'Unknown',
+	address VARCHAR(500),
+	rating DECIMAL(4,2),
+	review_count INT,
+	stars SMALLINT,
+	description TEXT,
+	lat VARCHAR(100),
+	lon VARCHAR(100),
+	spa tinyint DEFAULT 0,
+	fitness_center tinyint DEFAULT 0,
+	pool tinyint DEFAULT 0,
+	parking ENUM('no', 'free', 'surcharge') DEFAULT 'no',
+	wifi ENUM('no', 'free', 'surcharge') DEFAULT 'no',
+	bar tinyint DEFAULT 0,
+	cribs tinyint DEFAULT 0,
+	restaurant tinyint DEFAULT 0,
+	aircondition tinyint DEFAULT 0,
+	airport_shuttle ENUM('no', 'possible', 'free') DEFAULT 'no',
+	washing_and_drier tinyint DEFAULT 0,
+	ev_charging_station tinyint DEFAULT 0,
+	ocean_view tinyint DEFAULT 0,
+	pet_friendly ENUM('no pets', 'pets allowed on request') DEFAULT 'no pets',
+	casino tinyint DEFAULT 0,
+	kitchen tinyint DEFAULT 0,
+	water_park tinyint DEFAULT 0,
+	beach_access ENUM('no', 'private beach', 'beach access') DEFAULT 'no',
+	golf tinyint DEFAULT 0,
+	adults_only tinyint DEFAULT 0, 
+    kids_friendly_buffet tinyint DEFAULT 0, 
+    child_pool tinyint DEFAULT 0, 
+    playground tinyint DEFAULT 0, 
+    increased_accessibility tinyint DEFAULT 0, 
+    unit_wheelchair_accessible tinyint DEFAULT 0
+)
+
+Table Name: hotels
+id: Unique INT value identifying the hotel.
+name: Varchar, name of the hotel
+hotel_url: Varchar, url for the hotel.
+country: Varchar, the country in ISO 3166 Alpha2 format. For example 'DK' for Denmark and 'US' for the United States. The available countries are mentioned below.
+state: Varchar, the state name if any in English.
+city: Varchar, the city name if any in English. For example 'Copenhagen'. If the city is in two words, the format is 'Los-Angeles'. The available cities are mentioned below.
+address: Varchar, the street address of the hotel. For example "Guldblommevej 10, 4. th".
+rating: Decimal(4,2), the hotel review rating from customers. Min 1 and max 10.
+review_count: Int, the amount of reviews given of the hotel
+stars: Smallint, the amount of stars for the hotel
+description: Text, the description of the hotel by the hotel itself. Often includes some of the amenities, and can also include if it is close to landmarks or other locations.
+lat: Varchar, the latitude of the hotel
+lon: Varchar, the longitude of the hotel
+spa: tinyint, whether the hotel has spa or not. 1 if it does, and 0 if it does not.
+fitness_center: tinyint, whether the hotel has a fitness center or not. 1 if it does, and 0 if it does not.
+pool: tinyint, whether the hotel has a pool or not. 1 if it does, and 0 if it does not.
+parking: enum('no', 'free', 'surcharge'), the availability and pricing for parking at the hotel.
+wifi: enum('no', 'free', 'surcharge'), the availability and pricing for wifi service at the hotel.
+bar: tinyint, whether the hotel has a bar or not. 1 if it does, and 0 if it does not.
+cribs: tinyint, whether cribs are available for children. 1 if available, and 0 if not.
+restaurant: tinyint, whether the hotel has a restaurant or not. 1 if it does, and 0 if it does not.
+aircondition: tinyint, whether the hotel rooms are equipped with air conditioning. 1 if they are, and 0 if they are not.
+airport_shuttle: enum('no', 'possible', 'free'), the availability and pricing for airport shuttle service.
+washing_and_drier: tinyint, whether the hotel offers laundry facilities such as washing machines and driers. 1 if it does, and 0 if it does not.
+ev_charging_station: tinyint, whether the hotel has an electric vehicle charging station. 1 if it does, and 0 if it does not.
+ocean_view: tinyint, whether the hotel offers rooms with an ocean view. 1 if it does, and 0 if it does not.
+pet_friendly: enum('no pets', 'pets allowed on request'), the hotel policy on pets. If pets allowed, charges may apply.
+casino: tinyint, whether the hotel has a casino. 1 if it does, and 0 if it does not.
+kitchen: tinyint, whether the hotel rooms include a kitchen. 1 if they do, and 0 if they do not.
+water_park: tinyint, whether the hotel includes access to a water park. 1 if it does, and 0 if it does not.
+beach_access: enum('no', 'private beach', 'beach access'), the type of beach access provided by the hotel.
+golf: tinyint, whether the hotel has a golf course or golf facilities. 1 if it does, and 0 if it does not.
+adults_only: tinyint, whether the hotel is adults only or not. 1 if it is, and 0 if it is not.
+kids_friendly_buffet: tinyint, whether the hotel has a kids friendly buffet. 1 if it has, and 0 if it does not.
+child_pool: tinyint, whether the hotel has a pool for children. 1 if it has, and 0 if it does not.
+playground: tinyint, whether the hotel has a playground. 1 if it has, and 0 if it does not.
+increased_accessibility: tinyint, whether the hotel advertises increased accessibility. 1 if it does, and 0 if it does not.
+unit_wheelchair_accessible: tinyint, whether the entire unit is wheelchair accessible. 1 if it is, and 0 if it is not.

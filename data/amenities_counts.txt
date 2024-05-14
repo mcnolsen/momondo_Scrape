@@ -1,0 +1,392 @@
+free wi-fi: 29305
+internet: 27380
+private bathroom: 26965
+hairdryer: 26534
+toilet: 26083
+flat-screen tv: 25831
+toilet paper: 25204
+shower: 25145
+towels: 25042
+free toiletries: 24434
+staff follow all safety protocols as directed by local authorities: 24161
+air-conditioned: 24072
+heating: 23954
+daily housekeeping: 23664
+fire extinguisher: 23488
+desk: 23218
+tv: 23211
+storage available: 22941
+use of cleaning chemicals that are effective against coronavirus: 22858
+smoke alarms: 22608
+guest accommodation is disinfected between stays: 22373
+body soap: 22041
+wardrobe or closet: 21949
+trash cans: 21941
+no smoking: 21919
+hand sanitizer in guest accommodation and key areas: 21821
+first-aid kit: 21552
+shampoo: 21513
+linens: 21395
+physical distancing rules: 21320
+wi-fi available in all areas: 21145
+guests can opt-out of accommodation cleaning: 20664
+24hr front desk: 19994
+all plates, cutlery, glasses and other tableware have been sanitized: 19370
+safety deposit box: 19066
+cable or satellite tv: 18640
+elevator: 18627
+socket near the bed: 18369
+laundry facilities: 18293
+cctv in common areas: 18231
+family rooms: 17850
+terrace/patio: 17695
+physical distancing in dining areas: 17456
+electric kettle: 16838
+bar/lounge: 16690
+fax/photocopying: 16570
+telephone: 15865
+laundry service: 15767
+seating area: 15662
+increased accessibility: 15443
+restaurant: 15356
+refrigerator: 15300
+wake-up service: 15270
+room service: 15206
+coffee machine: 14790
+tea/coffee maker: 14456
+clothes rack: 14445
+cctv outside property: 14220
+iron and ironing board: 14193
+food can be delivered to guest accommodation: 13671
+express check-out: 13595
+contactless check-in/check-out: 13422
+private parking: 13395
+sofa: 13377
+safe: 13146
+parking: 13093
+guest accommodation sealed after cleaning: 12821
+meeting/banquet facilities: 12758
+key card access: 12756
+screens or physical barriers placed between staff and guests in appropriate areas: 12750
+accessible by elevator: 12651
+garden: 12604
+designated smoking area: 12604
+non-feather pillow: 12591
+conditioner: 12424
+bathtub: 12365
+balcony: 12326
+upper floors accessible by elevator: 12153
+process in place to check health of guests: 12008
+face masks for guests available: 11775
+24-hour security: 11666
+bottle of water: 11479
+ironing service: 11203
+property is cleaned by professional cleaning companies: 10932
+delivered food is securely covered: 10876
+minibar: 10850
+free parking: 10676
+tour desk: 10565
+city view: 10442
+pets allowed on request. charges may apply.: 10314
+concierge service: 10274
+slippers: 9774
+sofa bed: 9767
+bathrobe: 9509
+carpeted: 9423
+soundproofing: 9389
+soundproof rooms: 9294
+cribs available: 9252
+private check-in/check-out: 9237
+special diet menus (on request): 9222
+shared lounge/tv area: 9098
+bicycle rental: 9072
+breakfast in the room: 8878
+hardwood or parquet floors: 8736
+fitness center: 8693
+key access: 8490
+thermometers for guests provided by property: 8419
+business center: 8396
+walk-in shower: 8326
+shower cap: 8266
+dining table: 8071
+airport shuttle (surcharge): 7627
+car rental: 7594
+snack bar: 7498
+dining area: 7355
+radio: 7304
+hypoallergenic: 7148
+shuttle service (additional charge): 7141
+currency exchange on-site: 7119
+upper floors accessible by stairs: 7048
+wine glasses: 7037
+microwave: 6842
+kids meals: 6800
+garden view: 6779
+outdoor pool: 6637
+tile/marble floor: 6565
+kitchenware: 6422
+entire unit wheelchair accessible: 6394
+kettle: 6388
+non-smoking rooms available: 6359
+babysitting or child care: 6320
+fan: 6290
+sauna: 6280
+outdoor furniture: 6236
+interconnected room(s) available: 6160
+massage: 5913
+private entrance: 5784
+kitchenette: 5677
+hypoallergenic pillow: 5651
+entire unit located on ground floor: 5565
+allergy-free room: 5543
+packed lunches: 5524
+hot tub: 5504
+alarm clock: 5466
+adapter: 5376
+kitchen: 5340
+inner courtyard view: 5296
+bidet: 5257
+quiet street view: 5189
+cycling: 5089
+complimentary breakfast: 5050
+board games/puzzles: 4983
+lockers: 4792
+stovetop: 4783
+vending machine (drinks): 4773
+hiking: 4728
+roll-in shower: 4548
+toothbrush: 4546
+pants press: 4476
+feather pillow: 4414
+cleaning products: 4365
+laptop safe: 4262
+beach access: 4253
+spa and wellness center: 4105
+window: 4089
+pool towels: 4084
+toilet with grab rails: 4077
+sea view: 3994
+conference rooms: 3870
+golf: 3802
+atm on-site: 3783
+spa: 3706
+airport shuttle: 3639
+kid-friendly buffet: 3629
+drying rack for clothing: 3562
+extra-long beds (> 2 meters): 3557
+toaster: 3544
+outdoor dining area: 3527
+gift shop: 3360
+landmark view: 3329
+additional toilet: 3284
+vending machine (snacks): 3193
+grill: 3171
+towels/sheets (extra fee): 3110
+shower chair: 3008
+valet parking: 2993
+mini-market on site: 2955
+pool with a view: 2894
+beauty salon: 2893
+raised toilet: 2847
+oven: 2841
+streaming service: 2817
+pool view: 2785
+mountain view: 2778
+lowered sink: 2768
+fishing: 2749
+dishwasher: 2734
+fold-up bed: 2671
+pool table: 2578
+washing machine: 2523
+heated pool: 2488
+horse riding: 2463
+indoor pool: 2436
+playground: 2387
+adapted bath: 2331
+game room: 2270
+child pool: 2264
+spa bath: 2210
+diving: 2127
+additional bathroom: 2117
+shared kitchen: 2093
+carbon monoxide detector: 2067
+shared bathroom: 2048
+air purifiers: 2011
+tumble dryer: 2011
+pool bar: 2000
+coffee shop: 1978
+grocery deliveries: 1932
+snorkeling: 1924
+tennis: 1908
+evening entertainment: 1854
+canoeing: 1842
+mosquito net: 1806
+scuba diving: 1755
+beach towels: 1702
+table tennis: 1678
+ev charging station: 1629
+indoor play area: 1626
+pay-per-view channels: 1619
+adults only: 1593
+dvd player: 1562
+hammam (turkish bath): 1561
+kids' outdoor play equipment: 1511
+solarium: 1490
+cooking classes: 1467
+mobile hotspot device: 1455
+children's high chair: 1419
+public bath: 1415
+private beach: 1378
+beachfront: 1311
+windsurfing: 1236
+shared toilet: 1209
+dining room: 1123
+rooftop pool: 1117
+plunge pool: 1111
+casino: 1090
+fireplace: 1066
+river view: 1059
+pets not allowed: 1047
+fruits: 1043
+private pool: 1032
+private apartment in building: 1024
+eco tourism: 1015
+water sport facilities (on site): 982
+executive lounge access: 976
+kids' club: 970
+smartphone dock: 960
+baby safety gates: 946
+skiing: 924
+steam room: 915
+infinity pool: 873
+entertainment staff: 863
+books, dvds, music for children: 840
+saltwater pool: 826
+darts: 820
+pajamas: 781
+bowling: 766
+night club: 736
+detached: 719
+aerobics: 713
+cd player: 703
+open-air bath: 671
+lake view: 648
+pool: 648
+water park: 647
+ski storage: 602
+chapel/shrine: 580
+mini-golf: 572
+child-safety socket covers: 562
+reading light: 520
+shuttle service (free): 474
+privacy curtain: 414
+: 409
+squash: 387
+pool cover: 382
+swimming pool toys: 373
+karaoke: 370
+fax: 368
+bingo: 355
+wi-fi: 346
+books: 341
+water slide: 333
+archery: 316
+ski school: 291
+ski pass vendor: 249
+free airport shuttle: 248
+kid-friendly: 237
+parking (surcharge): 231
+hot spring bath: 226
+tatami (traditional japanese flooring): 219
+dishes: 218
+multi-lingual staff: 213
+blender: 209
+yukata (japanese bathrobe): 206
+basketball court: 198
+central heating: 192
+tablet: 190
+continental breakfast: 184
+shuttle service: 184
+free internet: 182
+blu-ray player: 181
+smartphone: 176
+semi-detached: 171
+earplugs: 164
+soap and shampoo provided: 155
+electric blankets: 153
+ice skating: 152
+gaming console: 151
+ski equipment rental (on site): 137
+wedding services: 136
+ski-in/ski-out: 121
+living room: 119
+clothes dryer: 117
+video games: 115
+ice maker: 114
+computer use available: 104
+kitchen/kitchenette: 104
+bird watching: 103
+smoking rooms available: 100
+a/v equipment rental: 91
+foosball table: 88
+fitness room: 87
+emergency contact numbers: 85
+housekeeping: 82
+deadbolt locks: 79
+ticket service: 76
+wi-fi (surcharge): 76
+garage: 74
+babysitting/child services (surcharge): 67
+shoeshine: 67
+accessible parking: 65
+porch: 62
+stereo equipment: 62
+coffee grinder: 61
+long-term parking (surcharge): 59
+indoor tennis: 57
+laptop: 56
+breakfast included: 51
+shops (on site): 48
+emergency exit: 48
+washer/dryer available in-room: 47
+games for adults: 43
+beach chairs: 43
+hunting: 41
+boating: 36
+rooftop: 31
+library: 29
+games for kids: 26
+free valet parking: 25
+internet (surcharge): 24
+video library: 22
+water sports equipment: 21
+bicycle available: 19
+fitness classes: 18
+private chef: 17
+kids toys: 17
+free long-term parking: 16
+winery: 14
+shopping: 13
+outdoor tennis: 13
+woodstove: 10
+chauffeur: 10
+train station shuttle: 10
+music library: 9
+ski shuttle (surcharge): 7
+video conferencing: 7
+24/7 concierge: 6
+lobster pot: 3
+seniors only: 3
+disinfection of high-touch surfaces: 3
+free babysitting/child services: 3
+free ski shuttle: 2
+surfing: 2
+cinema: 2
+6-min walk to beach: 1
+gym: 1
+outdoor fireplace: 1
+restaurant and bar: 1
+kayaking: 1
+rock climbing: 1
+wheelchair accessible: 1
+snow sports gear: 1

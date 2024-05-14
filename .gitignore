@@ -1,0 +1,7 @@
+.env
+chromedriver.exe
+/data/hotels_data_cleaned.json
+/data/hotels-data_updated.json
+/data/hotels-data.json
+/data/hotels.json
+/copies

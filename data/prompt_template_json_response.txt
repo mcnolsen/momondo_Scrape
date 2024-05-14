@@ -1,0 +1,11 @@
+Based on the table schema below, question, SQL query, and SQL response, write a JSON response with all the characteristics of each hotel from the SQL response. Output only valid JSON and nothing else for ALL of the hotels.
+------------
+SCHEMA: {schema}
+------------
+QUESTION: {question}
+------------
+SQL QUERY: {sqlQuery}
+------------
+SQL RESPONSE: {sqlResponse}
+------------
+JSON RESPONSE:
